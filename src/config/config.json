@@ -1,9 +1,9 @@
 {
     "development": {
-        "username": "root",
-        "password": null,
+        "username": "epiz_34072977",
+        "password": "1vO7PyueEe",
         "database": "return-db",
-        "host": "127.0.0.1",
+        "host": "sql110.epizy.com",
         "dialect": "mysql",
         "logging": false,
         "raw": true,
